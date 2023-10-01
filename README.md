@@ -1,13 +1,14 @@
 # Bondi
-a website template utilizing the latest CSS advancements such as flexbox, grid, transforms, and animations the template is responsive designs that adapt to any screen size . it had built by using HTML and CSS and  Bootstrap
+Bondi is a responsive Bootstrap template designed for creating modern and stylish websites. It provides a clean and professional design that can be easily customized to fit your specific needs.
 # Features
 * Responsive layout that adapts to different screen sizes
 * Clean and modern design
 * Easy to customize and extend
+* Built with Bootstrap, a popular CSS framework
 # Technologies Used
 * HTML: The standard markup language for creating web pages
 * CSS: The language used for styling web pages
-* Bootstrap: Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.
+* Bootstrap: A CSS framework for building responsive and mobile-first websites
 # Usage
 1. Clone the repository: git clone https://github.com/mohammedmzayek/Bondi.git
 2. Open the index.html file in your web browser to view the template.
